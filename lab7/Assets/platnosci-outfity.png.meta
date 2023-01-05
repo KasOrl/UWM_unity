@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 24bc5e062345a1a4f992512aba2935d7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platnosci-outfity_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4179c3ffd3d3245a170bf8f9c3d245
+      internalID: 326327937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 104
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6804594d78e124180717f79f2e9233
+      internalID: 723342124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 105
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576bac720ca70ab4b974b4ae147c0df8
+      internalID: 1222501359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 105
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7f99c1001011a458634ac5020fbfe5
+      internalID: -2055076400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 105
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e0e8fefa6e41b4e856aafe71832eab
+      internalID: 791082010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 104
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a8679b46bfae64698493373b0f1878
+      internalID: -164522726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 105
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc13da38369c87f4bb649291795a9186
+      internalID: -1782437774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 104
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bd493f8f72e8b4d93de2dcb8e96c58
+      internalID: -497182259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 106
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96399313954f90b4fb689ecea76f0046
+      internalID: -1801656643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 106
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666030971333544b9ab779c718d257d
+      internalID: -1317171393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 105
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fd89fd22a86d54c866ffec38aaaebb
+      internalID: -65109008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 106
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7145661b10323584da07fd0907e71a0b
+      internalID: -666478541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 106
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc02e140fe69b04f9675a6d7c877080
+      internalID: 191422803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 105
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca203c58b955c2b418476572bc8f58b8
+      internalID: 411325561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 56
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c5ba3a7b4d99c499929c068c1a3ec0
+      internalID: 1053390927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 56
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d987c3520190240bc871aa973dc910
+      internalID: -212280328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 56
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff9c80df0115a44c8c4299cc5361dd7
+      internalID: -1129767953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 57
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3710eedb7e8bb514fa24e6925b66ee7c
+      internalID: 340086502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 57
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad601f65d77e64d429a892b41cdf244f
+      internalID: 887129788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 56
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10bac8d6f5d479478c69f065418a769
+      internalID: -1004770668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 56
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c55a74676ba6b44a8049107195c33d4
+      internalID: 408886559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 56
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513c9fc4cc0ec24408faf063d0e7a973
+      internalID: 1792330984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 56
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87950cb5b36d784e8974d3d81c4d5bc
+      internalID: -1582431161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 55
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f0cf8d8d745dc429ccf7d3af1f0f4e
+      internalID: -933772599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 55
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0764a96ee234ec04383e8f99a0f831a6
+      internalID: 1877109579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_25
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 55
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1fbd964a2d23f458a6bfae6f2e501b
+      internalID: 815048290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 55
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17274d2f739c2bd4b94ae92542bd97db
+      internalID: 1523031777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 55
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88edbf6ff58012a4d8eee4ce3bebc37b
+      internalID: 532976445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 55
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab112e926ae57bd45a134c79756982e4
+      internalID: -227497414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 55
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba672e83b9284cd4e82f7f7e4871e9ec
+      internalID: -1025196506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_30
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 55
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab0c466b21c61544ad3b244ec678d07
+      internalID: 1810588424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 9
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77227bf734a2bbf4c85648140bc40b1a
+      internalID: -77102620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 8
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202d295d79b49df4a847098af47b0e31
+      internalID: 1589556488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 9
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75999ad7745715e4a958e2d4557d8e8f
+      internalID: 1047182523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b14c618bad48a4490adb9aebb4355b
+      internalID: -1377809085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_35
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b005e3abc8dbfbd468bcbf6e555d2155
+      internalID: 1384354040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dfbc01c923b9a479077120b9f7ce76
+      internalID: 641811899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_37
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 8
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcc39a331f7edf469da6fad62495dae
+      internalID: -1016048391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f6893a0d0e3a44a88d6dc81239d93f
+      internalID: -1275682549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7554ba89296b7414090597cf33d596b6
+      internalID: 467486466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 4
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bcda0e58df49242bc7c472b8db1bce
+      internalID: -69731121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 5
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128d8d400dad6254ab4abc41c996e638
+      internalID: -114350949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 4
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3884750fb0f9b4cb329293b73b5622
+      internalID: 2084067007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_43
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 5
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50fd52144c9ba48af346696b402555
+      internalID: -1273726899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_44
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed833720ee676ac41a360a8cca683ee7
+      internalID: -1028883911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_45
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 105
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba8b7413e2ccee429b45a5ae6e79e88
+      internalID: -1809188883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platnosci-outfity_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 105
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c3403c70ff4048b26da67421d20d8
+      internalID: -761789906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      platnosci-outfity_18: 887129788
+      platnosci-outfity_33: 1047182523
+      platnosci-outfity_46: -761789906
+      platnosci-outfity_1: 723342124
+      platnosci-outfity_10: -65109008
+      platnosci-outfity_26: 1523031777
+      platnosci-outfity_25: 815048290
+      platnosci-outfity_16: -1129767953
+      platnosci-outfity_8: -1801656643
+      platnosci-outfity_41: -114350949
+      platnosci-outfity_21: 1792330984
+      platnosci-outfity_42: 2084067007
+      platnosci-outfity_32: 1589556488
+      platnosci-outfity_24: 1877109579
+      platnosci-outfity_23: -933772599
+      platnosci-outfity_6: -1782437774
+      platnosci-outfity_39: 467486466
+      platnosci-outfity_0: 326327937
+      platnosci-outfity_14: 1053390927
+      platnosci-outfity_34: -1377809085
+      platnosci-outfity_17: 340086502
+      platnosci-outfity_5: -164522726
+      platnosci-outfity_40: -69731121
+      platnosci-outfity_44: -1028883911
+      platnosci-outfity_4: 791082010
+      platnosci-outfity_28: -227497414
+      platnosci-outfity_9: -1317171393
+      platnosci-outfity_11: -666478541
+      platnosci-outfity_43: -1273726899
+      platnosci-outfity_20: 408886559
+      platnosci-outfity_13: 411325561
+      platnosci-outfity_35: 1384354040
+      platnosci-outfity_38: -1275682549
+      platnosci-outfity_19: -1004770668
+      platnosci-outfity_36: 641811899
+      platnosci-outfity_12: 191422803
+      platnosci-outfity_15: -212280328
+      platnosci-outfity_22: -1582431161
+      platnosci-outfity_27: 532976445
+      platnosci-outfity_29: -1025196506
+      platnosci-outfity_3: -2055076400
+      platnosci-outfity_31: -77102620
+      platnosci-outfity_7: -497182259
+      platnosci-outfity_37: -1016048391
+      platnosci-outfity_45: -1809188883
+      platnosci-outfity_30: 1810588424
+      platnosci-outfity_2: 1222501359
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
